@@ -22,11 +22,12 @@ Aqui no GitHub, você encontrará meus estudos, experimentos e projetos que me i
 - **React Native** – 1 ano desenvolvendo apps multiplataforma.  
 
 ### ☁️ Cloud & Observabilidade  
-- **AWS / Azure / Digital Ocean** – +6 anos com pipelines, deploy e integrações.  
+- **AWS / Azure / Digital Ocean / GCP** – +6 anos com pipelines, deploy e integrações.  
 - **Grafana / CloudWatch / Prometheus / APIs distribuídas / ++** – foco em observabilidade e confiabilidade.
 
 ### 🧩 Banco de Dados  
-- **SQL / NoSQL / GraphQL / PL/SQL** – +8 anos em modelagem e otimização de consultas.  
+- **SQL / NoSQL / GraphQL / PL/SQL** – +8 anos em modelagem e otimização de consultas.
+- **Firestore e Realtime database** - +6 anos utilizando esta tecnologia em meus projetos.
 
 ### 🧠 Metodologias Ágeis  
 - **Scrum / Kanban / XP** – +7 anos aplicando práticas ágeis em equipes multidisciplinares.  
