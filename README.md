@@ -1,6 +1,6 @@
-# 👋 Salve, salve! eu sou o Guilherme Rosa, Gui, ou Guiribão.
+# 👋 Salve, salve! .
 
-Sou **Arquiteto e Desenvolvedor de Software** com **+10 anos de experiência** em sistemas corporativos, criando soluções **escaláveis, seguras e de baixa latência**.  
+Eu sou Guilherme Rosa, Gui ou Guiribão. Sou um **Arquiteto e Desenvolvedor de Software** com **+10 anos de experiência** em sistemas corporativos, criando soluções **escaláveis, seguras e de baixa latência**.  
 
 Atualmente atuo no desenvolvimento de serviços e aplicações distribuídas, com foco em **engenharia de software, arquitetura de plataforma, IA e soluções para área de Inovação**.  
 
