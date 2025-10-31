@@ -1,7 +1,7 @@
 # Salve, salve 👋  
 Eu sou Guilherme Rosa, Gui ou Guiribão. Sou um **Arquiteto e Desenvolvedor de Software** com **+10 anos de experiência** em sistemas corporativos, criando soluções **escaláveis, seguras e de baixa latência**.  
 
-Atualmente atuo no desenvolvimento de serviços e aplicações distribuídas, com foco em **engenharia de software, arquitetura de plataforma, IA e soluções para área de Inovação**.  
+Atualmente atuo na [@Betha Sistemas](https://github.com/betha-plataforma), desenvolvendo serviços e aplicações distribuídas, com foco em **engenharia de software, front-end, arquitetura de plataforma, inovação tecnológica e IA**.  
 
 Busco fortalecer minha presença na comunidade open source, **compartilhando conhecimento e aprendendo com outros devs**.  
 
